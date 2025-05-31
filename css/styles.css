@@ -152,7 +152,7 @@ body {
 .info-group h3 {
     font-size: 0.9rem;
     font-weight: 600;
-    color: var(--text-secondary);
+    color: var(--accent-color); /* Changed from var(--text-secondary) */
     margin-bottom: 0.5rem;
     text-transform: uppercase;
     letter-spacing: 0.5px;
